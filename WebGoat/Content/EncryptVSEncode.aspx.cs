@@ -33,7 +33,7 @@ namespace OWASP.WebGoat.NET
             //url encoded
             //base64
             //sha1
-            //encryption with password
+            //encryption with passwordd
             
             string secret = txtString.Text;
             string key = String.IsNullOrEmpty(txtPassword.Text) ? hardCodedKey : txtPassword.Text;
