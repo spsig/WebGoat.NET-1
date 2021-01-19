@@ -8,7 +8,7 @@ using System.Security.Cryptography;
 using System.Drawing;
 using OWASP.WebGoat.NET.App_Code;
 using System.Text;
-
+ 
 namespace OWASP.WebGoat.NET
 {
     public partial class EncryptVSEncode : System.Web.UI.Page
