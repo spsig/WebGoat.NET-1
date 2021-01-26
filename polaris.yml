@@ -35,7 +35,7 @@ capture:
       files:
       - directory: ${project.projectDir}
 analyze:
-  mode: local
+  mode: central
   coverity:
     cov-analyze: ["--all", "--security", "--webapp-security", "--enable-audit-mode"]
  
