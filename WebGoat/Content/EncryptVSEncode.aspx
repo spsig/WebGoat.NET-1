@@ -5,7 +5,7 @@
 </asp:Content>     
 
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContentPlaceHolder" runat="server">
-	<style>
+	<style> 
 		table, td, th
 		{
 			border:1px solid #e7f0fa;
