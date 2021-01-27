@@ -8,7 +8,7 @@ project:
 capture:
   build:
     buildCommands:
-    - shell: [msbuild, WebGoat.NET.sln, '/t:Build']
+    - shell: [msbuild, WebGoat.NET.sln, '/t:Rebuild']
   fileSystem:
     ears:
       extensions: [ear]
