@@ -42,4 +42,4 @@ analyze:
 install:
   coverity:
     version: default
-serverUrl: https://demo.polaris.synopsys.com
+serverUrl: https://poc120.polaris.synopsys.com
